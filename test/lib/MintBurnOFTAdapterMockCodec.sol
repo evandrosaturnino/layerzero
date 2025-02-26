@@ -1,6 +1,6 @@
 // SPDX-LICENSE-Identifier: UNLICENSED
 
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.20;
 
 import { MintBurnOFTAdapterMock } from "../mocks/MintBurnOFTAdapterMock.sol";
 import { MintBurnOFTAdapter } from "../../contracts/oft-evm/MintBurnOFTAdapter.sol";

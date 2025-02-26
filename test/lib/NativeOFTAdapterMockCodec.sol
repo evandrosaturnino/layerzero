@@ -1,6 +1,6 @@
 // SPDX-LICENSE-Identifier: UNLICENSED
 
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.20;
 
 import { NativeOFTAdapter } from "../../contracts/oft-evm/NativeOFTAdapter.sol";
 import { NativeOFTAdapterMock } from "../mocks/NativeOFTAdapterMock.sol";
