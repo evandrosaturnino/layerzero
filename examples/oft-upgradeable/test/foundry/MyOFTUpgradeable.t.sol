@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.17;
 
 import { OFTTest } from "@layerzerolabs/oft-evm-upgradeable/test/OFT.t.sol";
 import { MyOFTAdapterUpgradeable } from "../../contracts/MyOFTAdapterUpgradeable.sol";

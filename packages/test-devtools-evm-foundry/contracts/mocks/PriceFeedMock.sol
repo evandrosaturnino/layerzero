@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: LZBL-1.2
 
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.17;
 
 // @dev oz4/5 breaking change... Ownable constructor
 import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";

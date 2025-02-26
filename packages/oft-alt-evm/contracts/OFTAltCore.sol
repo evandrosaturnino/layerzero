@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.17;
 
 import { OAppAlt, Origin } from "@layerzerolabs/oapp-alt-evm/contracts/oapp/OAppAlt.sol";
 import { OAppOptionsType3 } from "@layerzerolabs/oapp-evm/contracts/oapp/libs/OAppOptionsType3.sol";

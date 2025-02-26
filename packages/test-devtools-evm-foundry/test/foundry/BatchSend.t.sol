@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.17;
 
 // Mock imports
 import { BatchSendMock as BatchSend } from "../../contracts/mocks/BatchSendMock.sol";
