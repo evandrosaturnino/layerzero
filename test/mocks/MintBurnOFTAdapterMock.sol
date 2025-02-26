@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.17;
 
 import { MintBurnOFTAdapter } from "../../contracts/oft-evm/MintBurnOFTAdapter.sol";
 import { IMintableBurnable } from "../../contracts/oft-evm/interfaces/IMintableBurnable.sol";
